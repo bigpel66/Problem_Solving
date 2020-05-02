@@ -1,0 +1,11 @@
+.DS_Store
+
+#boj
+./boj/.DS_Store
+./boj/bronze/.DS_Store
+./boj/silver/.DS_Store
+./boj/gold/.DS_Store
+
+#programmers
+./programmers/.DS_Store
+./programmers/kakao_2019/.DS_Store
